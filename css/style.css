@@ -24,7 +24,6 @@ body::before {
   moz-background-size: cover;
   o-background-size: cover;
   background-size: cover;
-  opacity: 0.6;
   left: 0;
   right: 0;
   top: 0;
