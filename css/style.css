@@ -11,7 +11,7 @@
 body {
   font-family: "Open Sans", sans-serif;
   background-color: #040404;
-  color: #000;
+  color: #fff;
   position: relative;
   background: transparent;
 }
@@ -85,7 +85,7 @@ h6 {
 
 #header h1 a,
 #header h1 a:hover {
-  color: #000;
+  color: #fff;
   line-height: 1;
   display: inline-block;
 }
@@ -97,7 +97,7 @@ h6 {
 }
 
 #header h2 span {
-  color: #000;
+  color: #fff;
   border-bottom: 2px solid #18d26e;
   padding-bottom: 6px;
 }
@@ -262,7 +262,7 @@ h6 {
 .navbar .active,
 .navbar .active:focus,
 .navbar li:hover>a {
-  color: #000;
+  color: #fff;
 }
 
 /**
