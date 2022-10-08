@@ -19,7 +19,7 @@ body {
 body::before {
   content: "";
   position: fixed;
-  background: #040404 url("../img/space-624054_1280.jpg") no-repeat center center; //background image
+  background: #000000 url("../img/space-624054_1280.jpg") no-repeat center center; //background image
   background-size: cover;
   webkit-background-size: cover;
   moz-background-size: cover;
