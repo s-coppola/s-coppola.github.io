@@ -81,7 +81,7 @@ h6 {
 
 #header h1 a,
 #header h1 a:hover {
-  color: #fff;
+  color: #000;
   line-height: 1;
   display: inline-block;
 }
@@ -93,7 +93,7 @@ h6 {
 }
 
 #header h2 span {
-  color: #fff;
+  color: #000;
   border-bottom: 2px solid #18d26e;
   padding-bottom: 6px;
 }
@@ -114,7 +114,7 @@ h6 {
   justify-content: center;
   align-items: center;
   background: rgba(255, 255, 255, 0.1);
-  color: #fff;
+  color: #000;
   line-height: 1;
   margin-right: 8px;
   border-radius: 50%;
@@ -258,7 +258,7 @@ h6 {
 .navbar .active,
 .navbar .active:focus,
 .navbar li:hover>a {
-  color: #fff;
+  color: #000;
 }
 
 /**
