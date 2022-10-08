@@ -20,10 +20,10 @@ body::before {
   content: "";
   position: fixed;
   background: #000000 url("../img/space-624054_1280.jpg") no-repeat center center; //background image
-  background-size: cover;
   webkit-background-size: cover;
   moz-background-size: cover;
   o-background-size: cover;
+  background-size: cover;
   opacity: 0.6;
   left: 0;
   right: 0;
